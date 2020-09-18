@@ -15,6 +15,6 @@ module.exports = {
   urls: [
     "https://matthewtole.com/",
     "https://matthewtole.com/articles/",
-    "https://matthewtole.com/projects",
+    "https://matthewtole.com/projects/",
   ],
 };
